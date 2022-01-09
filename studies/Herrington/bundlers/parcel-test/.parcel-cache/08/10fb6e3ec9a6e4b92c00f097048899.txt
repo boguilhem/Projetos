@@ -1,0 +1,5 @@
+4
+75/home/boguilhem/projetos/studies/Herrington/bundlers/parcel-test/index.html1620965965210000000 0
+73/home/boguilhem/projetos/studies/Herrington/bundlers/parcel-test/index.js1620965953120000000 0
+64/home/boguilhem/projetos/studies/Herrington/bundlers/parcel-test1620965551290000000 1
+77/home/boguilhem/projetos/studies/Herrington/bundlers/parcel-test/package.json1620965439330000000 0
